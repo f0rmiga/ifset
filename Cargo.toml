@@ -1,0 +1,10 @@
+[package]
+name = "ifset"
+version = "0.1.0"
+authors = ["Thulio Ferraz Assis <thulio.assis@suse.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33"
+libc = "0.2"
+nix = "0.16"
